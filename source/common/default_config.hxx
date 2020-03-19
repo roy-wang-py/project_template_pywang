@@ -1,0 +1,12 @@
+#ifndef __DEFAULT_CONFIG_HXX__
+#define __DEFAULT_CONFIG_HXX__
+
+#define DEF_NAMESPACE AIBEE__COMPUTE_PLATEFORM
+
+#define NAMESPACE_PREFIX namespace DEF_NAMESPACE {
+
+#define NAMESPACE_SUBFIX    }
+
+
+
+#endif // ! __DEFAULT_CONFIG_HXX__

@@ -1,0 +1,7 @@
+#ifndef _VERSION_H_
+#define _VERSION_H_
+
+#define FULL_VERSION_INFO   "version_@_BUILD_TIME@_git_@_git_branch@_@GIT_REPO_VERSION@_@GIT_REPO_DATE@_@GIT_REPO_HASH@_r@_GIT_COMMIT_COUNT@_@_GIT_USER_NAME@"
+#define GIT_VERSION         "@GIT_REPO_HASH@"
+
+#endif // _VERSION_H_

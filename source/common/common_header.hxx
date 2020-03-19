@@ -1,0 +1,33 @@
+#ifndef __COMMON_HEADER_HXX__
+#define __COMMON_HEADER_HXX__
+
+
+#include "default_config.hxx"
+#include "file_opt.hxx"
+#include "path_opt.hxx"
+#include "log_wrapper.hxx"
+#include "Exception.hxx"
+#include "Environment.hxx"
+#include "timer.hxx"
+#include "date.hxx"
+#include "bugcheck.hxx"
+#include "threadpool.hxx"
+#include "json.hxx"
+#include "stringtokenizer.hxx"
+#include "singleton.hxx"
+#include "configoperation.hxx"
+#include "utility.hxx"
+#include "file_format_input.hxx"
+#include "directoryiterator.hxx"
+#include "rapidxml.hpp"
+#include "rapidxml_print.hpp"
+#include "rapidxml_utils.hpp"
+#include "asio.hpp"
+#include "download_file.hxx"
+#include "http.hxx"
+#include "pugixml.hpp"
+#include "csv.hxx"
+#include "base64.hxx"
+#include "sha1.hxx"
+#include "String.hxx"
+#endif // !__COMMON_HEADER_HXX__
